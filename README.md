@@ -1,2 +1,2 @@
 # WebMutator
-This Python script extracts words from a webpage, analyzes their frequency, generates password mutations, and supports web crawling with customizable depth.
+WebMutator is a versatile tool for web scraping, word analysis, and password generation. It extracts words from webpages, analyzes their frequency, and creates password variations. With built-in crawling capabilities, it explores websites to gather data, supporting customizable depth. The tool is ideal for ethical hacking, cybersecurity research, and testing password strength, offering the ability to save results or view them directly.
